@@ -2,7 +2,6 @@
 
 🚀 A lightweight, multithreaded file downloader in Python — optimized for speed and simplicity. Supports retry logic, concurrent downloads, and progress tracking via `tqdm`.
 
----
 
 ## 🇮🇩 Why "Pangundhuh"?
 
@@ -12,7 +11,6 @@
 
 This name honors local language identity while remaining functional and relevant to a global audience.
 
----
 
 ## ✨ Features
 
@@ -22,7 +20,6 @@ This name honors local language identity while remaining functional and relevant
 - 📊 Beautiful progress bar with `tqdm`
 - 🧼 Clean and minimal code
 
----
 
 ## 📂 Folder Structure
 
@@ -33,7 +30,6 @@ This name honors local language identity while remaining functional and relevant
 ├── downloads/                # Output folder for downloaded files, will be created if not exist
 ```
 
----
 
 ## ⚙️ Configuration
 
@@ -47,7 +43,6 @@ RETRY_TIMES = 3                 # Retry count for failed downloads
 TIMEOUT = 30                    # Request timeout in seconds
 ```
 
----
 
 ## 📄 Usage
 
@@ -64,7 +59,6 @@ TIMEOUT = 30                    # Request timeout in seconds
    ```
    Or simply double-click the `pangundhuh-downloader.py` file directly from Windows Explorer.
 
----
 
 ## 🧪 Example
 
@@ -76,7 +70,6 @@ https://example.com/image2.jpg
 
 When run, all files will be saved to `./downloads/` with filenames extracted from the URL.
 
----
 
 ## ✅ Requirements
 
@@ -84,7 +77,6 @@ When run, all files will be saved to `./downloads/` with filenames extracted fro
 - `requests`
 - `tqdm`
 
----
 
 ## 📄 License
 
