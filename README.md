@@ -3,6 +3,7 @@
 🚀 A lightweight, multithreaded file downloader in Python — optimized for speed and simplicity. 
 Supports retry logic, concurrent downloads, and progress tracking via `tqdm`.
 
+![Preview animation of Pangundhuh Downloader](preview.gif)
 
 ## 🇮🇩 Why "Pangundhuh"?
 
