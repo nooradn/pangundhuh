@@ -1,6 +1,7 @@
 # Pangundhuh - Downloader Tool
 
-🚀 A lightweight, multithreaded file downloader in Python — optimized for speed and simplicity. Supports retry logic, concurrent downloads, and progress tracking via `tqdm`.
+🚀 A lightweight, multithreaded file downloader in Python — optimized for speed and simplicity. 
+Supports retry logic, concurrent downloads, and progress tracking via `tqdm`.
 
 
 ## 🇮🇩 Why "Pangundhuh"?
@@ -10,6 +11,16 @@
 > it reflects the purpose of this tool: **to fetch and collect resources efficiently.**
 
 This name honors local language identity while remaining functional and relevant to a global audience.
+
+
+## 🐍 Why Python?
+
+Simply because it's **multi-platform**, **easy to read**, and **has great library support**.
+
+Python allows us to write concise and powerful scripts with minimal dependencies.  
+With packages like `requests` and `tqdm`, building a reliable and user-friendly downloader is straightforward and fast.
+
+It's a language of choice for both beginners and professionals — and this tool proves you don't need complexity to achieve performance.
 
 
 ## ✨ Features
